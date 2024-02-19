@@ -1,0 +1,56 @@
+{
+    "jobs" : [
+        {
+            "title":"Marketing",
+            "position":"Internship",
+            "location":"Chicago"
+        },{
+            "title":"Sales",
+            "position":"Associate",
+            "location":"Texas" 
+        },{
+            "title":"Corporate Sales",
+            "position":"Enterprise Business Manager",
+            "location":"Chicago"
+        },{
+            "title":"Content",
+            "position":"Associate Quality Analyst" ,
+            "location":"Chicago"
+        }
+    ],
+    "courses" : [
+        {
+          "courseName": "React Basics",
+          "courseDetails": {
+            "description": "Learn the fundamentals of React",
+            "topics": [
+              "Introduction to React",
+              "Components and Props",
+              "State and Lifecycle"
+            ]
+          }
+        },
+        {
+          "courseName": "Node.js Essentials",
+          "courseDetails": {
+            "description": "Master the backend with Node.js",
+            "topics": [
+              "Node.js Basics",
+              "Express.js",
+              "Asynchronous JavaScript"
+            ]
+          }
+        },
+        {
+          "courseName": "HTML5 and CSS3",
+          "courseDetails": {
+            "description": "Build beautiful websites with HTML5 and CSS3",
+            "topics": [
+              "HTML5 Elements and Attributes",
+              "CSS Box Model",
+              "Responsive Web Design"
+            ]
+          }
+        }
+      ]
+}
